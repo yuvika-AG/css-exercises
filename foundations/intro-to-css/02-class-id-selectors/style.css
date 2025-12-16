@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+p{
+    background-color: rgb(242, 104, 127);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#two{
+    color: rgb(96, 96, 223);
+    font-size: 36px;
+}
+.font-size-specified{
+    font-size: 24px;
+}
+#four{
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
